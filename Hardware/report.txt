@@ -1,0 +1,15 @@
+Info: X scale constrained.
+Info: Y scale constrained.
+Plotted to 'C:\Users\diego\Documents\Projects for Fun\WaterTankSensor\Drill Holes\WaterTankSensor-F_Cu.gtl'.
+Plotted to 'C:\Users\diego\Documents\Projects for Fun\WaterTankSensor\Drill Holes\WaterTankSensor-In1_Cu.g1'.
+Plotted to 'C:\Users\diego\Documents\Projects for Fun\WaterTankSensor\Drill Holes\WaterTankSensor-In2_Cu.g2'.
+Plotted to 'C:\Users\diego\Documents\Projects for Fun\WaterTankSensor\Drill Holes\WaterTankSensor-B_Cu.gbl'.
+Plotted to 'C:\Users\diego\Documents\Projects for Fun\WaterTankSensor\Drill Holes\WaterTankSensor-F_Paste.gtp'.
+Plotted to 'C:\Users\diego\Documents\Projects for Fun\WaterTankSensor\Drill Holes\WaterTankSensor-B_Paste.gbp'.
+Plotted to 'C:\Users\diego\Documents\Projects for Fun\WaterTankSensor\Drill Holes\WaterTankSensor-F_Silkscreen.gto'.
+Plotted to 'C:\Users\diego\Documents\Projects for Fun\WaterTankSensor\Drill Holes\WaterTankSensor-B_Silkscreen.gbo'.
+Plotted to 'C:\Users\diego\Documents\Projects for Fun\WaterTankSensor\Drill Holes\WaterTankSensor-F_Mask.gts'.
+Plotted to 'C:\Users\diego\Documents\Projects for Fun\WaterTankSensor\Drill Holes\WaterTankSensor-B_Mask.gbs'.
+Plotted to 'C:\Users\diego\Documents\Projects for Fun\WaterTankSensor\Drill Holes\WaterTankSensor-Edge_Cuts.gm1'.
+Created Gerber job file 'C:\Users\diego\Documents\Projects for Fun\WaterTankSensor\Drill Holes\WaterTankSensor-job.gbrjob'.
+Info: Done.

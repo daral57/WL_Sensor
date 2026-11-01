@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/WaterLevelSensor_STM32/build/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

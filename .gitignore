@@ -1,0 +1,18 @@
+# --- KiCad System & Backup Files ---
+*.bak
+*-backups/
+~*
+.kicad_prl
+fp-info-cache
+
+# --- Production & Manufacturing Outputs ---
+/Obsolete/
+
+# --- Documentation & Spreadsheets (Optional: exclude if you only want source CAD tracked) ---
+*.xlsx
+*.docx
+
+# --- Local OS & Editor Files ---
+.DS_Store
+Thumbs.db
+.vscode/
